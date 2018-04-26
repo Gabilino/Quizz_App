@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Quizz_App</string>
+    <string name="welcome_message">Test your knowledge about Great Britain. You have 7 questions to answer. Scroll down to begin! Good Luck!</string>
+    <string name="title_question_1">Question 1</string>
+    <string name="question_1">How long did the Romans stay in Britain?</string>
+    <string name="answer_1_a">400 Years</string>
+    <string name="answer_1_b">600 Years</string>
+    <string name="answer_1_c">100 Years</string>
+    <string name="answer_1_d">300 Years</string>
+    <string name="title_question_2">Question 2</string>
+    <string name="question_2">Which two of these saints are the patron saints of the UK?</string>
+    <string name="answer_2_a">St David</string>
+    <string name="answer_2_b">St Andrew</string>
+    <string name="answer_2_c">St Christopher</string>
+    <string name="answer_2_d">St James</string>
+    <string name="title_question_3">Question 3</string>
+    <string name="question_3">What is the highest mountain in the UK?</string>
+    <string name="q3_hint">Type your text here</string>
+    <string name="title_question_4">Question 4</string>
+    <string name="question_4">Which flower is associated with England?</string>
+    <string name="answer_4_a">Thistle</string>
+    <string name="answer_4_b">Rose</string>
+    <string name="answer_4_c">Daffodil</string>
+    <string name="answer_4_d">Shamrock</string>
+    <string name="title_question_5">Question 5</string>
+    <string name="question_5">What year was the battle of Hastings?</string>
+    <string name="answer_5_a">1215</string>
+    <string name="answer_5_b">1066</string>
+    <string name="answer_5_c">1016</string>
+    <string name="answer_5_d">1608</string>
+    <string name="title_question_6">Question 6</string>
+    <string name="question_6">Which Scottish poet wrote "The Bruce"?</string>
+    <string name="title_question_7">Question 7</string>
+    <string name="question_7">What is the Church of England known as in Scotland and the US?</string>
+    <string name="answer_7_a">The Catholic Church</string>
+    <string name="answer_7_b">The Anglican Church</string>
+    <string name="answer_7_c">The Episcopal Church</string>
+    <string name="answer_7_d">The State Church</string>
+    <string name="submit_button">submit</string>
+    <string name="your_score">Your score is </string>
+    <string name="out_of">out of 7.</string>
+    <string name="room_for_improvement">There is room for improvement!</string>
+    <string name="not_bad">Not bad at all!</string>
+    <string name="excellent_result">Excellent result! Well done!</string>
+    <string name="reset_button">reset</string>
+
+    </resources>

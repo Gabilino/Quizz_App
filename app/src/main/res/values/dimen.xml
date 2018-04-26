@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding">8dp</dimen>
+    <dimen name="padding_left">30dp</dimen>
+    <dimen name="padding_right">30dp</dimen>
+    <dimen name="padding_top">40dp</dimen>
+    <dimen name="welcomeText_size">25sp</dimen>
+    <dimen name="margin_left">24dp</dimen>
+    <dimen name="margin_right">24dp</dimen>
+    <dimen name="margin_top">40dp</dimen>
+    <dimen name="padding_view">16dp</dimen>
+    <dimen name="question_size">18sp</dimen>
+    <dimen name="padding_top_question">16dp</dimen>
+    <dimen name="padding_bottom">16dp</dimen>
+    <dimen name="buttonText_size">16sp</dimen>
+    <dimen name="answerText_size">18sp</dimen>
+    <dimen name="marginTop_button">16dp</dimen>
+    <dimen name="padding_leftEdit">12dp</dimen>
+
+</resources>
